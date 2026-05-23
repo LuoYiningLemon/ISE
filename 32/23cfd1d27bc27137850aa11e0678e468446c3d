@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "3223cfd1d27bc27137850aa11e0678e468446c3d",
+  "prompts": {},
+  "humans": {
+    "h_eed7ecca647e06": {
+      "author": "LuoYiningLemon <837710354@qq.com>"
+    }
+  }
+}
