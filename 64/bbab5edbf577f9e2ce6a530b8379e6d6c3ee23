@@ -1,0 +1,14 @@
+使用说明.md
+  h_eed7ecca647e06 1-247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "64bbab5edbf577f9e2ce6a530b8379e6d6c3ee23",
+  "prompts": {},
+  "humans": {
+    "h_eed7ecca647e06": {
+      "author": "LuoYiningLemon <837710354@qq.com>"
+    }
+  }
+}
